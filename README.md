@@ -12,7 +12,7 @@ For Ubuntu and other Linux systems, please use the `ubuntu` branch.
 The main customizations are the following :
 
 * Remap the prefix key to **Ctrl+g**.
-* Use vim movements keys to select panes : *Ctrl+g* + (**h**, **j**, **k**, **l**).
+* Use vim movements keys to select panes : *Ctrl+g* + **h**, **j**, **k**, **l**.
 * If you are not easy with the vim movements keys, you can move through the differents panes by using **Alt** with the **arrows** keys.
 * The terminal type is set to **screen-256color** to use theme as molokai, solorized, etc.
 * The Tmux config can be reloaded in a running Tmux session with *Ctrl+g* + **r**.
